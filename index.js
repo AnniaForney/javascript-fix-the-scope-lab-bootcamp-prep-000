@@ -8,11 +8,11 @@ function yourAnimal('my rabbit') {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
-  return animal('rabbit')
+  return animal('eats carrots')
 }
 
-function add2(n) {
-  return n + two
+function addn(2) {
+  return 2 + n
 
   // Feel free to move things around!
   const two = 2
